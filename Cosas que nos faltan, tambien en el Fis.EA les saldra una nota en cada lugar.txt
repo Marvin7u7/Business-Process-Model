@@ -21,6 +21,7 @@ The Stakeholders package contains model elements representing the various people
 
 Nos solicitan eso yo puse los interesados como empresa y personas no se cuales serian los de sofware
 
+
 ///REQUERIEES MODEL
 
 
