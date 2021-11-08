@@ -1,0 +1,30 @@
+Modulo Seguridad
+-CRUD Usuarios
+-Roles Y Permisos
+
+Modulo Reporte
+-Operaciones Diarias
+-Recibos 
+
+Modulo Facturacion
+-Facturas de ventas
+-Cotizaciones
+-Importaciones
+-Comisiones
+
+Modulo Contabilidad
+-Mayor General
+-Estados Financieros
+--Balance General
+-Procesos
+
+Modulo Clientes
+-Empresas clientes
+
+Modulo Tributacion
+-IVA 
+- IR 
+-Compras de la empresa cliente
+
+
+

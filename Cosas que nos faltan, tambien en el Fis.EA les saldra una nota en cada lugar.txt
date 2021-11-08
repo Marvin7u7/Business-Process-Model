@@ -1,0 +1,27 @@
+Cosas que nos faltan en FIS.EA
+
+osea diagramas 
+
+En Business Context > Strategies 
+
+
+Vision
+<State here the vision, conveying what you want to achieve through implementing this project.>
+Mission
+<State here the mission to summarise the goal and the purpose of the project.  Mission statements provide details such as:
+What is to be done.
+Who would be carrying it out.
+Why the project is needed. >
+
+
+
+En Business Context > Stakeholders
+
+The Stakeholders package contains model elements representing the various people, organizations and information systems that are in some way connected into the current business context
+
+Nos solicitan eso yo puse los interesados como empresa y personas no se cuales serian los de sofware
+
+///REQUERIEES MODEL
+
+
+
