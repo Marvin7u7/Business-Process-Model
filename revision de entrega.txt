@@ -1,0 +1,52 @@
+Documento vision 
+
+proposito 
+lleva los objetivos 
+
+lo que estara beneficion reglas de negocios en que consiste el negocio 
+
+todo lo que se puedo hace con el sistema 
+tiene subsitema
+
+explica los subsistemas y luego un alcance 
+
+el presente documento explica lo neecasrio para tener una perspeciva del documento 
+
+Tabla de gastos
+
+Director de Informática | Sistemas 	C$ 80,878.46 - C$ 87,594
+Gerente de Informática | Sistemas 	C$ 67,402.46- C$ 74,118
+Jefe de Informática | Sistemas 	C$ 26,974.46 - C$ 33,690
+Analista de Sistemas 	C$ 13,498.46 - C$ 20, 214
+Asistente de Sistemas 	C$ 6, 760.46 - C$ 13, 476
+Analista | Programador 	C$ 6, 760.46 - C$ 13, 476
+Programador 	C$ 6, 760.46 - C$ 13, 476
+Administrador de Base de Datos 	C$ 13,498.46 - C$ 20, 214
+Administrador de Redes 	C$ 13,498.46 - C$ 20, 214
+Soporte Técnico 	C$ 6, 760.46 - C$ 13, 476
+Operador de Sistemas 	C$ 6, 760.46 - C$ 13, 476
+Web Master 	C$ 13,498.46 - C$ 20, 214
+Auditor de Sistemas 	C$ 26,974.46 - C$ 33,690
+Técnico de Internet 	C$ 6, 760.46 - C$ 13, 476
+
+Leer más: https://www.tecoloco.com.ni/blog/rangos-salariales-en-el-area-de-informatica.aspx#ixzz7Bwjvuf7o
+
+Riesgo de dejar la Universidad o reprobar la asignarutra 
+
+
+misin y visoin 
+
+borrar la institucion de lo queseria interesados 
+
+Obejetos de negocio 
+
+
+archivos de expediente osea lo que hay
+
+
+
+flujos de trabajo del contexto de negocio actual 
+
+PREGUNTAR SOBRE ESTO 
+
+--PAQUETE 
